@@ -1,0 +1,17 @@
+html { 
+	background: url("../img/come.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+@media only screen and (max-device-width: 480px) { 
+	html {
+		background: url("../img/come_phone.jpg") no-repeat center center fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+}
