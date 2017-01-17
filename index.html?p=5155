@@ -1,0 +1,635 @@
+
+<!doctype html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="generator" content="Compass 1.1.0" />
+<meta name="generator" content="Themewoot Wordpress Toolkit 1.0.1" />
+<title>Condiciones de uso | Pay[in]</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.pay-in.es/xmlrpc.php" />
+<!-- For favicon-->
+<link rel="shortcut icon" type="image/x-icon" href="http://www.pay-in.es/wp-content/uploads/2015/12/payin-favicon.png" />
+
+<!-- GOOGLE FONTS -->
+<link href='https://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+
+<link rel="icon" type="image/x-icon" href="http://www.pay-in.es/wp-content/uploads/2015/12/payin-favicon.png" />
+<!-- For iPad3 with retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.pay-in.es/wp-content/uploads/2015/12/payin-favicon.png" />
+<!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.pay-in.es/wp-content/uploads/2015/12/payin-favicon.png" />
+<!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.pay-in.es/wp-content/uploads/2015/12/payin-favicon.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="http://www.pay-in.es/wp-content/uploads/2015/12/payin-favicon.png" /> 
+
+<link rel="alternate" type="application/rss+xml" title="Pay[in] &raquo; Feed" href="http://www.pay-in.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pay[in] &raquo; RSS de los comentarios" href="http://www.pay-in.es/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pay[in] &raquo; Condiciones de uso RSS de los comentarios" href="http://www.pay-in.es/2016/06/13/condiciones-de-uso/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.pay-in.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.7"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='socialmediaStylesheet-css'  href='http://www.pay-in.es/wp-content/plugins/social-media-widgets/assets/css/style.css?ver=4.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.pay-in.es/wp-includes/css/dashicons.min.css?ver=4.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://www.pay-in.es/wp-includes/css/admin-bar.min.css?ver=4.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.pay-in.es/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.pay-in.es/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.0.4.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='twitterfeed-style-css'  href='http://www.pay-in.es/wp-content/plugins/wd-twitter-feed/app/assets/css/twitter-feed.min.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.pay-in.es/wp-content/plugins/themewoot-wordpress-toolkit/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=4.7.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Nunito:400,300,700|Montserrat:400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb_af_icons-css'  href='http://www.pay-in.es/wp-content/plugins/wpb-advanced-faq/assets/css/icons.css?ver=1.0' type='text/css' media='' />
+<link rel='stylesheet' id='wpb_af_style-css'  href='http://www.pay-in.es/wp-content/plugins/wpb-advanced-faq/assets/css/wpb_af_style.css?ver=1.0' type='text/css' media='' />
+<link rel='stylesheet' id='themewoot-apps-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/css/apps.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-fontello-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/fontello.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-audio-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/jplayer/audio.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-video-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/jplayer/video.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-elusive-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/elusive.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-entypo-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/entypo.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-font-awesome-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/font-awesome.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-iconic-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/iconic.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-linecons-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/linecons.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-maki-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/maki.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-meteocons-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/meteocons.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-typicons-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/typicons.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-zocial-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/fonts/zocial.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-isotope-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/css/isotope.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-fonts-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/css/fonts.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-style-css'  href='http://www.pay-in.es/wp-content/themes/compass/style.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-skin-css'  href='http://www.pay-in.es/wp-content/themes/compass/skins/light-yellow.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-responsive-css'  href='http://www.pay-in.es/wp-content/themes/compass/assets/css/responsive.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themewoot-custom-css'  href='http://www.pay-in.es/wp-content/themes/compass-child/custom.css?ver=1.1.0' type='text/css' media='all' />
+<style id='themewoot-custom-inline-css' type='text/css'>
+.section-page-header {
+background-color:#ecbb47;
+background-image:url(http://www.pay-in.es/wp-content/uploads/2015/12/header-sec1.jpg);
+background-repeat:no-repeat;
+background-position:center top;
+background-attachment:scroll;
+background-size:cover;
+}
+
+#logo a {padding-top: 10px; padding-bottom: 10px;}
+#logo img {max-height: 60px;}
+#logo h1.text-logo {font-size: 60px;}
+#primary-navigation ul.sf-menu li a {padding-top: 34px; padding-bottom: 34px;}
+#top-search .text-field {font-size: 36px; height: 36px; padding-top: 22px; padding-bottom: 22px;}
+.res-nav-icon {padding-top: 30px; padding-bottom: 30px;}
+.is-sticky #logo a {padding-top: 10px; padding-bottom: 10px;}
+.is-sticky #logo img {max-height: 30px;}
+.is-sticky #logo h1.text-logo {font-size: 30px;}
+.is-sticky #primary-navigation ul.sf-menu > li > a {padding-top: 19px; padding-bottom: 19px;}
+.is-sticky #top-search .text-field {font-size: 30px; height: 30px; padding-top: 10px; padding-bottom: 10px;}
+.is-sticky .res-nav-icon {padding-top: 15px; padding-bottom: 15px;}
+body, button, input, select, textarea{font-family: "Nunito";font-size: 16px;font-size: 1.6rem;font-weight: 300;}
+#logo h1.text-logo{}
+h1{font-family: "Nunito";}
+h2{font-family: "Nunito";font-weight: 300;}
+h3{font-family: "Nunito";}
+h4{font-family: "Nunito";}
+h5{font-family: "Nunito";font-size: 22px;font-size: 2.2rem;}
+h6{font-family: "Nunito";}
+#res-navigation ul.sf-menu li a, #primary-navigation ul.sf-menu li a{font-family: "Montserrat";font-size: 12px;font-size: 1.2rem;font-weight: bold;letter-spacing: 0.1em;}
+#res-navigation ul.sf-menu li ul li a, #primary-navigation ul.sf-menu li ul li a{font-family: "Montserrat";}
+.widget .widget-title{}
+.copyright{}
+
+body {background-color:#E9E9E9;}
+.rows {background:#FFFFFF;}
+#logo a {color: #FFFFFF;}
+#logo a {background: #afafaf;}
+#logo a:hover {color: #FFFFFF;}
+#logo a:hover {background: #46BEAE;}
+
+</style>
+<link rel='stylesheet' id='themewoot-dynamic-css'  href='http://www.pay-in.es/wp-content/themes/compass/dynamic.css?ver=1.1.0' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themewoot_params = {"ajaxurl":"http:\/\/www.pay-in.es\/wp-admin\/admin-ajax.php","jplayer_swf":"http:\/\/www.pay-in.es\/wp-content\/themes\/compass\/assets\/jplayer","responsive_nav_width":"1080","sticky_header_height":"50","under_cons_date":"30 September 2015 23:59:00"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.0.4.1'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.0.4.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pay-in.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pay-in.es/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='La ventaja de ser tecnológicamente libre' href='http://www.pay-in.es/2016/06/09/la-ventaja-de-ser-tecnologicamente-libre/' />
+<link rel='next' title='Pay[in] en el Mapa Fintech de España elaborado por Mooverang' href='http://www.pay-in.es/2016/06/15/payin-en-el-mapa-fintech-de-espana-elaborado-por-mooverang/' />
+<meta name="generator" content="WordPress 4.3.7" />
+<link rel='canonical' href='http://www.pay-in.es/2016/06/13/condiciones-de-uso/' />
+<link rel='shortlink' href='http://www.pay-in.es/?p=5155' />
+<!-- start Mixpanel -->
+<script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("093b5b1fe815837083a62df8f8e8e229");</script>
+<!-- end Mixpanel -->
+
+<script type="text/javascript"> 
+mixpanel.set_config({
+    cross_subdomain_cookie: false,
+    debug: false});
+</script> 
+<!-- end Mixpanel --><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.pay-in.es/wp-content/plugins/themewoot-wordpress-toolkit/js_composer/assets/css/vc_lte_ie9.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.pay-in.es/wp-content/plugins/themewoot-wordpress-toolkit/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px; }
+	* html body { margin-top: 32px; }
+	@media screen and ( max-width: 782px; ) {
+		html { margin-top: 46px; }
+		* html body { margin-top: 46px; }
+	}
+</style>
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			(function() {
+				if (!window.mc4wp) {
+					window.mc4wp = {
+						listeners: [],
+						forms    : {
+							on: function (event, callback) {
+								window.mc4wp.listeners.push({
+									event   : event,
+									callback: callback
+								});
+							}
+						}
+					}
+				}
+			})();
+			/* ]]> */
+		</script>
+		<meta name="generator" content="Powered by Slider Revolution 5.0.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script src="http://www.pay-in.es/wp-includes/js/pay-in/xp.js" type="text/javascript" async="async"></script>
+
+<!-- METAS FACEBOOK 
+<meta content='Pay[in], la cartera en tu móvil' property='og:title'/>
+<meta content='http://www.pay-in.es/wp-content/uploads/2015/09/imagenFB.png' property='og:image'/>
+<meta content='Pay[in] es el primer wallet real, y por ello permite que puedas acceder a tu casa, pagar en establecimientos, o acceder al transporte público. Todo ello con tu teléfono móvil.' property='og:description'/> -->
+</head>
+<body class="single single-post postid-5155 single-format-standard admin-bar no-customize-support ajax-likes sticky-header wide page-right-sidebar fitvids grid-width-1200 wpb-js-composer js-comp-ver-4.7.4 vc_responsive">
+
+
+<div id="page" class="wrapper">
+<div class="rows">
+
+<div id="header">
+<header class="section-header">
+	<section class="container">
+	<div class="inner inner-wrap clearfix">
+	<div id="logo">
+	<h1 class="img-logo">
+	<a href="http://www.pay-in.es/" title="Pay[in]" rel="nofollow">
+
+			<img src="http://pay-in.es/wp-content/uploads/2015/12/logo.png" class="logo" alt="Pay[in]" />
+		</a>
+	</h1>
+</div>		<nav id="res-navigation-icon" class="res-nav-icon">
+	<a href="#"><i class="icon-menu"></i></a>
+</nav>	
+<nav id="primary-navigation" class="negro" >
+	<ul class="navigation-ul sf-menu clearfix">
+	<li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a target="_blank" href="https://control.pay-in.es/Account/Login">LOGIN</a></li>
+	</ul>
+</nav>
+
+
+	<span class="separador negro" id="primary-navigation"> | </span>
+
+<nav id="primary-navigation" class="negro" >
+	<ul class="navigation-ul sf-menu clearfix">
+	<li id="menu-item-5050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5050"><a href="http://www.pay-in.es/como-funciona/">CÓMO FUNCIONA</a></li>
+<li id="menu-item-5068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5068"><a href="http://www.pay-in.es/empresas/">EMPRESAS</a></li>
+<li id="menu-item-5071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5071"><a href="http://www.pay-in.es/usuarios/">USUARIOS</a></li>
+<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694"><a href="http://www.pay-in.es/mapa/">MAPA</a></li>
+<li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="http://www.pay-in.es/contacto/">CONTACTO</a></li>
+	</ul>
+</nav>
+
+	</div>
+	</section>
+</header>
+</div>
+<nav id="res-navigation">
+
+			
+	
+	<div id="res-nav"></div>
+
+	
+</nav>
+
+<div id="post-5155" class="post-5155 post type-post status-publish format-standard hentry category-novedades">
+<div class="site-content container pt pb clearfix">
+	
+		
+	<article id="primary-wrapper" class="column span8">
+		<div class="content-area inner">
+		
+		
+						<section class="entry-format-standard">
+							</section>
+			
+			<header class="entry-header">
+				<h3 class="title">Condiciones de uso</h3>
+				<div class="meta post-share">
+					<span class="date"></i>13 junio, 2016</span>
+										<span class="author"></i><a class="url fn n" href="http://www.pay-in.es/author/adminpay/" title="View all posts by Pay[in]" rel="author">Pay[in]</a></span>
+										<span class="cats"><a href="http://www.pay-in.es/category/novedades/" rel="tag">Novedades</a></span>
+															<span class="likes"><a href="#" class="zilla-likes" id="zilla-likes-5155" title="Like this"><i class="icon-heart"></i><span class="zilla-likes-count">0</span> <span class="zilla-likes-postfix"></span></a></span>
+				</div>
+				
+			</header>
+
+			<div class="post-content entry-text clearfix">
+				<h1 class="title"></h1>
+<p>&nbsp;</p>
+<h1 class="title">Condiciones de servicio</h1>
+<div></div>
+<div class="post-body">
+<div class="termsAndConditions">
+<p class="western"><b>Política de reclamaciones</b></p>
+<p class="western" align="justify">Pay[in] actúa como plataforma de pagos entre el pagador y el cobrador. Para reclamar cualquier incidencia sobre el proceso de pago, puede realizarla a través del correo <a href="mailto:info@pay-in.es">info@pay-in.es</a>.</p>
+<p class="western" align="justify">Para realizar una reclamación sobre un proceso de cobro/pago el usuario que ha realizado el pago dispondrá de 20 días hábiles.</p>
+<p class="western"><b>Condiciones de uso del servicio de Pay[in]</b></p>
+<p class="western" align="justify">El comercio/comerciante y usuario, al registrarse asume las condiciones expuestas en esta página, así como las vías de disputa y procedimientos de baja del servicio detallados por la empresa Payment Innovation Network S.L. con CIF B-98.638.927.</p>
+<p class="western" align="justify">La plataforma Pay[in] desarrollada por la empresa Payment Innovation Network S.L. es una plataforma que facilita los pagos en las tiendas físicas entre el vendedor o prestador del servicio y el comprador.</p>
+<p class="western" align="justify">Pay[in] proporcionará los medios para que se puedan gestionar las devoluciones por parte del vendedor, así como los medios para poder realizar reclamaciones sobre el proceso de pago.</p>
+<p class="western" align="justify">Pay[in] almacenará datos para validar el proceso de cobro y pago de forma que se puedan aportar datos para verificar la realización del proceso de cobro y pago, identificando los terminales y los usuarios que lo han realizado.</p>
+<p class="western" align="justify">Cualquier reclamación sobre los productos deberá ser resuelta entre el vendedor y el comprador, en ningún caso Pay[in] interviene, garantiza o es responsable del producto adquirido o servicio prestado por el vendedor.</p>
+<p class="western" align="justify"><b>Responsabilidad por transacciones no autorizadas</b>. Si notifica y se verifica por parte de Pay[in] que ha habido un acceso indebido a la cuenta del cliente y no hay pruebas que indiquen fraude o negligencia deliberada o grave por parte del cliente, Pay[in] reintegrará la totalidad de los importes de todas las transacciones no autorizadas realizadas con la cuenta del cliente, siempre y cuando nos haya informado del acceso indebido a su cuenta sin demora y en cualquier caso en un plazo no superior a 13 meses desde la fecha en que se realizó la primera transacción de acceso indebido a la cuenta del cliente. En caso de que Pay[in] considere de forma fundamentada que se requiere una investigación más exhaustiva se podrá ampliar el plazo por un máximo de 2 meses adicionales. En caso de superar ese plazo se reintegrará el dinero por parte de Pay[in] quedando este supeditado a la resolución final del proceso.</p>
+<p class="western" align="justify"><span lang="es-ES"><b>Errores y problemas</b></span><span lang="es-ES">. Si se descubre cualquier tipo de error o problema por el que algún cliente percibiera un dinero inferior al que le corresponde en alguna liquidacón, </span><span lang="es-ES"><b>Pay[in]</b></span><span lang="es-ES"> le abonará en una plazo no superior a 5 días laborables la diferencia mediante una transferencia bancaria. En caso de recibir un ingreso mayor al que le corresponde </span><span lang="es-ES"><b>Pay[in] </b></span><span lang="es-ES">le descontará de su liquidación pendiente dicho saldo o bien le generará un cobro que deberá ser abonado en un plazo no superior a 15 días. Del mismo modo en caso de recibir un ingreso por error, se autoriza a </span><span lang="es-ES"><b>Pay[in]</b></span><span lang="es-ES"> a realizar el reintegro de dicho cobro bien sea mediante un cargo a tarjeta o bien mediante el cobro a través de la cuenta bancaria facilitada</span></p>
+<p class="western" align="justify"><span lang="es-ES">A pesar de cualquier otro término de estas Condiciones de uso, Pay[in] no será responsable de las demoras en la ejecución de los pagos ya que dependen exclusivamente de las entidades bancarias que prestan servicio de TPV. En todo caso,</span><span lang="es-ES"><b>Pay[in]</b></span><span lang="es-ES"> intentará en la medida de los posible agilizar dichas transacciones en beneficio de sus clientes. Una vez notificada la ejecución de la liquidación, y dependiendo de las entidades bancarias implicadas, </span><span lang="es-ES"><b>Pay[in]</b></span><span lang="es-ES"> no es responsable de la demora en la transacción, y será la empresa quién deba notificar el retraso para que se pueda actuar y poner en conocimiento a la entidad bancaria.</span></p>
+<p class="western"><b>ACUERDO PARA COMERCIO/COMERCIANTES</b></p>
+<p class="western" align="justify"><span lang="es-ES">1. Antecedentes</span></p>
+<p class="western" align="justify"><span lang="es-ES">Este Acuerdo rige la prestación de los Servicios a un Comercio/comerciante por parte del Proveedor del servicio que en el presente acuerdo será Pay[in].</span></p>
+<p class="western" align="justify"><span lang="es-ES">Pay[in] ofrece una aplicación para smartphone que, entre otras cosas, permite a los usuarios recibir tickets mediante el escaneo de códigos QR o bien mediante NFC que generará el comercio/comerciante desde la misma aplicación </span><span lang="es-ES"><b>Pay[in]</b></span><span lang="es-ES"> a fin de permitir que se realicen pagos al Comercio/comerciante, de forma rápida y fácil.</span></p>
+<p class="western" align="justify"><span lang="es-ES">El Comercio/comerciante es un vendedor de bienes o servicios (por este motivo se solicita en su registro sus datos legales) y desea contar con el Proveedor del servicio Pay[in] para permitir a los Usuarios el pago de dinero entre dichos Usuarios de </span><span lang="es-ES"><b>Pay[in] </b></span><span lang="es-ES">y el Comercio/comerciante utilizando la Utilidad móvil de Pay[in]. De esta forma el Usuario de Pay[in] puede adquirir bienes o contratar servicios del Comercio/comerciante.</span></p>
+<p class="western" align="justify"><span lang="es-ES">El Comercio/comerciante está obligado a registrarse con el Proveedor del servicio (</span><span lang="es-ES"><b>Pay[in]</b></span><span lang="es-ES">) a fin de poder recibir los Servicios. Es posible que el Comercio/comerciante no reciba los Servicios (incluido el procesamiento de cualquier Transacción) hasta que haya sido autorizado por el Proveedor del servicio. Al enviar al Proveedor del servicio una solicitud para recibir los Servicios, el Comercio/comerciante acepta haber leído y comprendido este Acuerdo (cuya copia puede descargar y guardar para incluirla en sus propios registros en cualquier momento).</span></p>
+<p class="western" align="justify"><span lang="es-ES">El Proveedor del servicio se reserva el derecho de modificar este Acuerdo (incluido el nivel de las Cuotas del servicio) mediante notificación con un (1) mes de antelación en cualquier momento, sin responsabilidad alguna. Si el Proveedor del servicio así lo hiciera, el Comercio/comerciante podrá rescindir este Acuerdo inmediatamente y sin cargo alguno antes de que los cambios propuestos entren en vigor. De otro modo, se entenderá que el Comercio/comerciante ha aceptado los cambios una vez que haya transcurrido un (1) mes de la notificación.</span></p>
+<p class="western" align="justify"><span lang="es-ES">2. Cuotas del servicio</span></p>
+<p class="western" align="justify"><span lang="es-ES">Las Cuotas del servicio pagaderas por los servicios se detallan a continuación, el Proveedor del servicio se reserva el derecho de modificar las Cuotas del servicio en cualquier momento previa notificación al Comercio/comerciante con un (1) mes de antelación.</span></p>
+<p>&nbsp;</p>
+<table width="85%" cellspacing="0" cellpadding="7">
+<colgroup>
+<col width="240" />
+<col width="202" /></colgroup>
+<tbody>
+<tr>
+<td colspan="2" valign="top" bgcolor="#dadada" width="456">
+<p class="western" align="center"><span lang="es-ES"><b>COSTES ASOCIADOS A Pay[in] – Para ESPAÑA</b></span></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="240">
+<p class="western" align="justify"><span lang="es-ES">Comisión por transacción</span></p>
+</td>
+<td width="202">
+<p class="western" align="justify"><span lang="es-ES">1 % (mínimo 0,02€)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="240">
+<p class="western" align="justify"><span lang="es-ES">Coste por devolución</span></p>
+</td>
+<td width="202">
+<p class="western" align="justify"><span lang="es-ES">1 % (mínimo 0,02€)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="240">
+<p class="western" align="justify"><span lang="es-ES">Coste de liquidación</span></p>
+</td>
+<td width="202">
+<p class="western" align="justify"><span lang="es-ES">Gratuito</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="240">
+<p class="western" align="justify"><span lang="es-ES">Mantenimiento</span></p>
+</td>
+<td width="202">
+<p class="western" align="justify"><span lang="es-ES">Gratuito</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="240">
+<p class="western" align="justify"><span lang="es-ES">Facturación mínima</span></p>
+</td>
+<td width="202">
+<p class="western" align="justify"><span lang="es-ES">Sin mínimo</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td width="240">
+<p class="western" align="justify"><span lang="es-ES">Moneda extranjera</span></p>
+</td>
+<td width="202">
+<p class="western" align="justify"><span lang="es-ES">Cambio según costes bancarios</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<address class="western"><em><span lang="es-ES">Todos los costes aquí señalados son sin IVA</span></em></address>
+<address> </address>
+<p class="western" align="justify"><span lang="es-ES">Durante las liquidaciones diarias al Comercio/comerciante se le aplicarán las Cuotas del servicio. Mensualmente se emitirá una factura de la totalidad de las liquidaciones realizadas y los costes de servicio.</span></p>
+<p class="western" align="justify"><span lang="es-ES">El importe de las Cuotas del servicio anteriormente descritas no incluyen IVA. En el pago de las liquidaciones diarias se asumirá el coste asociado al servicio. El Comercio/comerciante será el único responsable del pago de todos los impuestos de venta, uso y de otro tipo relativos a otros impuestos aplicables a este Acuerdo (excepto los impuestos correspondientes a los ingresos del Proveedor del servicio, si los hubiera) y acepta pagarlos.</span></p>
+<p class="western" align="justify"><span lang="es-ES">Si el Comercio/comerciante no estuviera de acuerdo con alguna factura, liquidación u otra solicitud de pago, lo notificará al Proveedor del servicio por escrito a la mayor brevedad posible. Las partes remitirán la disputa para su resolución inmediatamente de acuerdo con el procedimiento detallado en el apartado de “Quejas y Resolución de disputas”. El Proveedor del servicio proporcionará todas las evidencias que puedan ser razonablemente necesarias para verificar la factura o solicitud de pago en disputa. Cuando solo se dispute una parte de la factura o liquidación, el importe no disputado se abonará en la fecha de vencimiento fijado.</span></p>
+<p class="western" align="justify"><span lang="es-ES">El Proveedor del servicio podrá cobrar intereses a un tipo anual igual al EURIBOR a un mes más el 4% (dicho tipo se calculará a la fecha de vencimiento del pago), calculado sobre una base diaria respecto a cualquier importe vencido e impagado, aplicándose ese interés desde la fecha de vencimiento del importe y pagadero hasta que el Proveedor del servicio reciba la totalidad del importe, ya sea antes o después de juicio.</span></p>
+<p class="western" align="justify"><span lang="es-ES">Todos los pagos que deban abonarse al Proveedor del servicio en virtud del presente Acuerdo serán exigibles inmediatamente tras su terminación.</span></p>
+<p class="western" align="justify"><span lang="es-ES">El Proveedor del servicio podrá exigir en cualquier momento al Comercio/comerciante que dé a su banco instrucciones de autorizar al Proveedor del servicio para cargar directamente en la Cuenta bancaria del Comercio/comerciante todos los importes adeudados y pagaderos por el Comercio/comerciante al Proveedor del servicio en virtud de este Acuerdo o en relación con él. En tales circunstancias, el Comercio/comerciante se asegurará de que su Cuenta bancaria disponga en todo momento de saldo suficiente para atender cualquier importe vencido y pagadero al Proveedor del servicio en virtud de este Acuerdo o en relación con él, en caso de no existir fondos el Comercio/comerciante asumirá los costes derivados de las devoluciones bancarias.</span></p>
+<p class="western"><b>Protección de datos</b></p>
+<p class="western" align="justify"><span lang="es-ES">Cada parte se compromete a cumplir, y se encargará de que sus empleados, agentes y subcontratistas cumplan, la Legislación de protección de datos en relación con el cumplimiento de sus obligaciones en virtud de este Acuerdo.</span></p>
+<p class="western"><b>Política de privacidad</b></p>
+<p class="western" align="justify"><span lang="es-ES"><br />
+En cumplimiento de lo dispuesto en la ley 15/1999, de 13 de Diciembre, de Protección de Datos Personales (LOPD), Payment Innovation Network S.L., como responsable del/los fichero/s, informa que los datos personales que el usuario facilitará durante toda su relación con nuestra compañía, incluida su dirección de e-mail y todos aquellos datos personales a los que podamos acceder durante la relación establecida, serán tratados en un/os fichero/s debidamente inscrito/s en la Agencia Española de Protección de Datos y de conformidad con lo establecido en la legislación vigente.</span></p>
+<p class="western" align="justify">La información que nos pueda ser remitida, se incoporará a los sistemas de información de Payment Innovation Network S.L. Dicha comunicación se podrá utilizar de forma interna para análisis y generación de estadísitcas, así como para mejorar su atención, en ningún caso se suministrarán datos sensibles a terceros sin el consentimiento específico del usuario. Mediante la indicación, facilitación o introducción de sus datos, y de conformidad con lo establecido en el artículo 6 de la L.O.P.D., Vd. otorga consentimiento inequívoco a Payment Innovation Network S.L., para que proceda, en cumplimiento de los fines mencionados en el apartado anterior, al tratamiento de los datos personales facilitados. Así mismo, dicho consentimiento se extiende a la cesión de los datos de acuerdo con la legislación aplicable.</p>
+<p class="western" align="justify">El acceso a sus datos personales será efectuado por personal autorizado y sujeto asimismo a una obligación de secreto, los mismos y se tratarán de conformidad con la LOPD 15/1999 así como del Real Decreto 1702/2007 en su desarrollo, no pudiéndose utilizar en ningún caso para finalidades distintas de las aquí autorizadas ni con fines comerciales o publicitarios no autorizados, así como no pudiendo cederse a terceras partes sin consentimiento expreso. En cualquier momento usted podrá ejercitar los derechos de acceso, rectificación, oposición y, en su caso, cancelación, comunicándolo por escrito con indicación de sus datos a Payment Innovation Network S.L., en el domicilio de Marina Real Juan Carlos I, Muelle de la Aduana s/n Edificio Lanzadera, 46024 Valencia.</p>
+<p>&nbsp;</p>
+<p class="western"><b>Garantías e indemnizaciones</b></p>
+<p class="western" align="justify"><span lang="es-ES">Cada parte garantiza que dispone de la autoridad y capacidad corporativa para formalizar este Acuerdo y cumplir sus obligaciones correspondientes.</span></p>
+<p class="western" align="justify"><span lang="es-ES">El Comercio/comerciante garantiza y asevera que toda la información proporcionada al Proveedor del servicio en el curso de la solicitud de uso del Servicio es veraz y exacta en todos los aspectos y el Comercio/comerciante mantendrá tal información actualizada durante el Plazo del acuerdo.</span></p>
+<p class="western" align="justify"><span lang="es-ES">El Comercio/comerciante garantiza que está ubicado y lleva a cabo su actividad en el Territorio desde el que se le ha concedido autorización para realizar cobros y que solo utilizará los Servicios o recibirá los pagos dentro del Territorio autorizado.</span></p>
+<p class="western" align="justify"><span lang="es-ES">El Comercio/comerciante indemnizará y mantendrá indemne al Proveedor del servicio de y contra todas y cada una de las reclamaciones planteadas contra el Proveedor del servicio por un usuario de Pay[in], una institución financiera u otro tercero, o que el Proveedor del servicio pueda sufrir o en las que pueda incurrir, en la medida en que tales reclamaciones surjan o se produzcan como consecuencia o en relación con:</span></p>
+<p class="western" align="justify"><span lang="es-ES">(A) una Transacción</span></p>
+<p class="western" align="justify"><span lang="es-ES">(B) cualquier violación de seguridad relacionada con el compromiso o robo de los datos de Pago mantenidos por el Comercio/comerciante o en nombre del Comercio/comerciante</span></p>
+<p class="western" align="justify"><span lang="es-ES">(C) el incumplimiento por parte del Comercio/comerciante de los requisitos de una autoridad reguladora o de la Ley aplicable y excepto, si y en la medida en que tal reclamación esté causada por negligencia, incumplimiento de contrato o malversación deliberada del Proveedor del servicio.</span></p>
+<p class="western"><b>Limitación de responsabilidad</b></p>
+<p class="western" align="justify"><span lang="es-ES">Esta cláusula establece la total responsabilidad de las partes (incluyendo cualquier responsabilidad de los actos u omisiones de sus respectivos empleados, agentes y subcontratistas) entre ellas y con respecto a: los incumplimientos de este Acuerdo, cualquier uso que realice el Comercio/comerciante o sus Afiliados de los Servicios o de cualquier parte de ellos y cualquier aseveración, declaración, acto delictivo u omisión (incluyendo negligencia) que surja bajo este Acuerdo o en conexión o relación con él.</span></p>
+<p class="western" align="justify"><span lang="es-ES">Todas las garantías, condiciones y otros términos implícitos por estatuto o ley común quedan excluidos de este Acuerdo, en la mayor medida permitida por la ley. En particular, y salvo que se establezca expresamente en este Acuerdo: el Proveedor del servicio no ofrece aseveraciones ni garantías, expresas o implícitas, respecto a la comerciabilidad, idoneidad para un propósito particular o no vulneración; el Proveedor del servicio no garantiza ni asegura que el Comercio/comerciante vaya a alcanzar un nivel concreto de ventas, ingresos o beneficios; el Proveedor del servicio no garantiza ni asegura que la Utilidad móvil Pay[in] o los Servicios vayan a estar siempre disponibles y libres de errores de funcionamiento, ni que cualquier error, omisión o extravío en el software vaya a corregirse.</span></p>
+<p class="western" align="justify"><span lang="es-ES">Ningún aspecto de este Acuerdo limitará o eximirá de responsabilidad a ninguna de las partes por la muerte o lesiones que resulten de la negligencia, fraude o declaración fraudulenta, las obligaciones de indemnización que no pueda excluirse por la Ley aplicable.</span></p>
+<p class="western"><b>Plazo y finalización</b></p>
+<p class="western" align="justify"><span lang="es-ES">El presente Acuerdo comenzará en la fecha de inicio y continuará a menos que se rescinda de conformidad con sus términos.</span></p>
+<p class="western" align="justify"><span lang="es-ES">Cualquiera de las partes podrá rescindir este Acuerdo en cualquier momento y de forma inmediata El Comercio/comerciante podrá dar de baja el servicio desde la propia página web administrativa o vía correo electrónico a <a href="mailto:info@pay-in.es">info@pay-in.es</a>. El proveedor de servicio podrá dar de baja el servicio notificándolo previamente al Comercio/comerciante con 1 mes de antelación en caso de causa no justificada o bien de forma inmediata en caso de:</span></p>
+<p class="western" align="justify"><span lang="es-ES">(A) el Proveedor del servicio determina, en su opinión razonable, que hay un nivel desproporcionado de Reclamaciones de clientes, reembolsos o solicitudes de devolución en relación con el Comercio/comerciante</span></p>
+<p class="western" align="justify"><span lang="es-ES">(B) el Proveedor del servicio determina, en su opinión razonable, que la conducta o el trato del Comercio/comerciante a los Usuarios de Pay[in] o la relación del Comercio/comerciante con el Proveedor del servicio está teniendo un efecto adverso significativo en la reputación del Proveedor del servicio.</span></p>
+<p class="western"><b>Confidencialidad</b></p>
+<p class="western" align="justify"><span lang="es-ES">Cada parte se compromete, durante el plazo de este Acuerdo y durante un período de cinco años después de su vencimiento o rescisión, a mantener la confidencialidad y no revelar a ninguna persona en ningún momento, cualquier información confidencial que le haya revelado, o haya obtenido en relación con, la otra parte relativa a las actividades o asuntos de la otra parte o de cualquier miembro de su Grupo, incluyendo sin limitación, la información relativa a las operaciones, procesos, planes, información de productos, conocimientos, diseños, secretos comerciales, software, oportunidades de mercado y clientes de una parte (“Información Confidencial”).</span></p>
+<p class="western" align="justify"><span lang="es-ES">Cada parte podrá revelar la información confidencial de la otra parte:</span></p>
+<p class="western" align="justify"><span lang="es-ES">(A) a sus empleados, responsables, agentes, asesores o subcontratistas (“Representantes”) según se requiera razonablemente a los efectos del cumplimiento de las obligaciones de dicha parte en virtud del presente Acuerdo, a condición de que la parte reveladora tome todas las medidas razonables para garantizar que sus Representantes cumplan las obligaciones de confidencialidad contenidas en este punto, como si ellos también formaran parte de este Acuerdo. La parte reveladora será responsable del cumplimiento por parte de sus Representantes de las obligaciones de confidencialidad aquí detalladas (Presente Acuerdo).</span></p>
+<p class="western" align="justify"><span lang="es-ES">(B) según se pueda exigir por ley o sentencia judicial y como pueda requerir cualquier autoridad del mercado de valores, gubernamental o reguladora que tenga jurisdicción aplicable</span></p>
+<p class="western" align="justify"><span lang="es-ES">(C) si la información confidencial estuviera en posesión legítima de esa parte o de sus Representantes (en cualquier caso con evidencia de registros por escrito) sin obligación de secreto previa a su obtención o mantenimiento</span></p>
+<p class="western" align="justify"><span lang="es-ES">(D) si la información confidencial se hubiera hecho pública previamente sin que mediara incumplimiento de la otra parte ni de sus Representantes</span></p>
+<p class="western" align="justify"><span lang="es-ES">(E) si se requiriera a los efectos de cualquier procedimiento judicial o de arbitraje derivado de este Acuerdo.</span></p>
+<p class="western"><b>Quejas y resolución de disputas</b></p>
+<p class="western" align="justify"><span lang="es-ES">Si el Comercio/comerciante desea presentar una queja acerca del Servicio, podrá enviar un correo electrónico a <a href="mailto:info@pay-in.es">info@pay-in.es</a>, con una breve descripción de su queja donde indique su número de cuenta de comercio/comerciante. El personal del servicio de atención al cliente del Proveedor del servicio acusará recibo de la queja del Comercio/comerciante por correo electrónico en el plazo de un (1) día laborable. A continuación, realizarán una investigación y enviarán al Comercio/comerciante una respuesta inicial tras haber consultado con un empleado con la autoridad para resolver la queja (incluyendo, cuando proceda, una oferta de compensación). Cuando proceda, el miembro del personal que investigue la queja no será un miembro del personal que haya estado directamente involucrado en el asunto objeto de la queja. Esto no debería prolongarse más de cinco días laborables, aunque la mayoría de las quejas podrían estar resueltas al finalizar la jornada laborable siguiente al día de la recepción de la queja. Si la queja no se resuelve al final del día laborable siguiente a la recepción de la queja, el Proveedor del servicio enviará al Comercio/comerciante una copia del procedimiento de gestión de quejas.</span></p>
+<p class="western" align="justify"><span lang="es-ES">Si el Comercio/comerciante no quedara satisfecho con la respuesta del Proveedor del servicio, podrá ponerse en contacto nuevamente con el servicio de atención al cliente para elevar su reclamación y ser atendido por la administración de</span><span lang="es-ES"><b>Pay[in]</b></span><span lang="es-ES">, que responderá por correo electrónico en el plazo de cinco días laborables adicionales.</span></p>
+<p class="western" align="justify"><span lang="es-ES">Ninguna de las partes podrá iniciar procedimientos legales en relación con una disputa antes de que finalice el Período de resolución, salvo para obtener medidas provisionales urgentes.</span></p>
+<p class="western" align="justify"><span lang="es-ES">Si las partes no hubieran resuelto la queja o disputa cuando finalice el Período de resolución, se aplicará como base la legislación y jurisprudencia española, por tanto, este Acuerdo y cualquier disputa o reclamación derivadas de él (incluyendo las disputas o reclamaciones no contractuales) se regirán e interpretarán de acuerdo con la Ley Española y las partes aceptan someterse a la jurisdicción exclusiva de los tribunales españoles.</span></p>
+<p class="western" align="justify"><span lang="es-ES">La existencia y el contenido de todas las disputas en el marco del presente Acuerdo se tratarán como información confidencial y así lo asumen ambas partes.</span></p>
+<p class="western"><b>Pagos y reembolsos</b></p>
+<p class="western" align="justify"><span lang="es-ES">Cuando un Usuario de Pay[in] inicie un Pago, el Proveedor del servicio procesará el Pago y, siempre que el banco emisor del Usuario de Pay[in] autorice el pago, el Proveedor del servicio abonará en la cuenta del comercio/comerciante el importe del Pago menos las Cuotas de servicio aplicables.</span></p>
+<p class="western" align="justify"><span lang="es-ES">Dichos pagos se abonarán en un plazo mínimo de 3 días laborables desde el cierre de la liquidación.</span></p>
+<p class="western" align="justify"><span lang="es-ES">El Proveedor del servicio podrá suspender la tramitación de cualquier transacción cuando el Proveedor del servicio considere razonablemente que la transacción puede ser fraudulenta o que implica cualquier actividad delictiva, hasta la finalización satisfactoria de la investigación del Proveedor del servicio o la de un tercero en virtud de la Ley Aplicable.</span></p>
+<p class="western"><b>Liquidación</b></p>
+<p class="western" align="justify"><span lang="es-ES">El Pago de la liquidación (calculado de acuerdo con los costes asociados) se calculará:</span></p>
+<p class="western" align="justify"><span lang="es-ES">(A) Sobre los pagos pendientes de liquidar</span></p>
+<p class="western" align="justify"><span lang="es-ES">(B) El importe de la liquidación y el periodo de días de liquidación serán conocidos por el Comercio/Comerciante:</span></p>
+<ul>
+<li>
+<p align="justify"><span lang="es-ES">Importe mínimo para liquidación automática: Tras superarse este importe a final del día se cerrará el saldo pendiente y se liquidará.</span></p>
+</li>
+<li>
+<p align="justify"><span lang="es-ES">Periodo de liquidación: Estará comprendido desde el día siguiente a la última liquidación, hasta la fecha de cierre de los pagos pendientes por liquidar.</span></p>
+</li>
+</ul>
+<p class="western" align="justify"><span lang="es-ES">(C) Cierre manual de liquidación: El Comercio/Comerciante podrá cerrar un periodo de cobro manualmente desde la web administrativa sin necesidad de alcanzar el importe mínimo de liquidación.</span></p>
+<p class="western" align="center"><b>El rol de Pay[in]</b></p>
+<p class="western" align="justify"><span lang="es-ES">Como plataforma de pagos, Pay[in] procesa los pagos que un comercio/comerciante recibe de sus clientes, ambos usuarios registrados de Pay[in].</span></p>
+<p class="western" align="justify"><span lang="es-ES">Pay[in] recibe información del pago y del cobro y la tramita a través de las entidades bancarias pertinentes. Pay[in] no ofrece ningún tipo de servicios monetarios ni es un emisor de dinero electrónico tal y como se define en el Banco de España.</span></p>
+<p class="western" align="center"><b>AUTORIZACIÓN</b></p>
+<p class="western" align="justify"><span lang="es-ES">Con la autorización del presente acuerdo, el usuario de Pay[in] y el comercio/comerciante, autorizan a Payment Innovation Network S.L., a través de su plataforma Pay[in] a recibir, mantener y desembolsar los fondos por su cuenta. Esta autorización por parte del usuario y por parte del comercio/comerciante permite a la plataforma Pay[in] y en su defecto a Payment innovation Network S.L. a generar en nombre del comercio/comerciante los documentos y recibos/justificantes de los pagos realizados. Esta autorización estará vigente mientras el acuerdo entre las partes esté en vigor.<br />
+</span></p>
+<p style="text-align: center;">Payment Innovation Network S.L</p>
+<p style="text-align: center;">CIF: B-98.638.927</p>
+<p style="text-align: center;">Marina Real Juan Carlos I, muelle de la Aduana s/n</p>
+<p style="text-align: center;">Edificio Lanzadera</p>
+<p style="text-align: center;">46024 Valencia</p>
+<p style="text-align: center;">info@pay-in.es</p>
+<p class="western" align="justify">Última actualización: 27/08/2015</p>
+</div>
+</div>
+			</div>
+
+			
+			
+			<div class="related-news pt outer">
+	<h3 class="title inner">Recent News</h3>
+	<ul class="clearfix">
+								<li class="span4 column">
+			<div class="inner">
+							</div>
+			</li>
+											<li class="span4 column">
+			<div class="inner">
+							</div>
+			</li>
+											<li class="span4 column">
+			<div class="inner">
+							</div>
+			</li>
+						</ul>
+</div>
+
+			<nav class="post-pagination inner">
+	<ul class="clearfix">
+					<li class="prev nav">
+			<a href="http://www.pay-in.es/2016/06/15/payin-en-el-mapa-fintech-de-espana-elaborado-por-mooverang/">
+			<i class="icon icon-left-open"></i>
+			<span class="info-wrap"><span class="info"><span class="title">Pay[in] en el Mapa Fintech de España elaborado por Moover...</span></span></span>
+			</a>
+			</li>
+							<li class="next nav">
+			<a href="http://www.pay-in.es/2016/06/09/la-ventaja-de-ser-tecnologicamente-libre/">
+			<i class="icon icon-right-open"></i>
+			<span class="info-wrap"><span class="info"><span class="title">La ventaja de ser tecnológicamente libre</span></span></span>
+			</a>
+			</li>
+		
+					<li class="back"><a href="http://www.pay-in.es/blog/"><i class="icon-th"></i>Back to Blog</a></li>
+			</ul>
+</nav>	
+			
+		
+		</div>
+	</article>
+	<!--end #primary-->
+	
+	<aside id="secondary" class="column span4"><div class="side-widgets-area inner"><div class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.pay-in.es/" >
+    <input type="text" class="text-field" placeholder="Buscar" value="" name="s" id="s" />
+    <button type="submit" id="searchsubmit"><i class="icon-search"></i></button>
+    </form></div><div class="widget widget_categories"><h3 class="widget-title">Categorías</h3><span class="line"></span>		<ul>
+	<li class="cat-item cat-item-31"><a href="http://www.pay-in.es/category/articulos/" >Artículos</a> (18)
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.pay-in.es/category/empresa/" >Empresa</a> (11)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.pay-in.es/category/noticias/" >Noticias</a> (4)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.pay-in.es/category/novedades/" >Novedades</a> (9)
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.pay-in.es/category/medios/" >Pay[in] en los medios</a> (24)
+</li>
+		</ul>
+</div><div class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><span class="line"></span><div class="tagcloud"><a href='http://www.pay-in.es/tag/andar/' class='tag-link-34' title='1 tema' style='font-size: 8pt;'>andar</a>
+<a href='http://www.pay-in.es/tag/app/' class='tag-link-27' title='1 tema' style='font-size: 8pt;'>app</a>
+<a href='http://www.pay-in.es/tag/banco/' class='tag-link-26' title='1 tema' style='font-size: 8pt;'>banco</a>
+<a href='http://www.pay-in.es/tag/bici/' class='tag-link-33' title='1 tema' style='font-size: 8pt;'>bici</a>
+<a href='http://www.pay-in.es/tag/bus/' class='tag-link-29' title='1 tema' style='font-size: 8pt;'>bus</a>
+<a href='http://www.pay-in.es/tag/ciclista/' class='tag-link-36' title='1 tema' style='font-size: 8pt;'>ciclista</a>
+<a href='http://www.pay-in.es/tag/economia/' class='tag-link-35' title='1 tema' style='font-size: 8pt;'>economía</a>
+<a href='http://www.pay-in.es/tag/metro/' class='tag-link-28' title='1 tema' style='font-size: 8pt;'>metro</a>
+<a href='http://www.pay-in.es/tag/movilidad-sostenible/' class='tag-link-32' title='1 tema' style='font-size: 8pt;'>movilidad sostenible</a>
+<a href='http://www.pay-in.es/tag/movil/' class='tag-link-8' title='1 tema' style='font-size: 8pt;'>Móvil</a>
+<a href='http://www.pay-in.es/tag/operador-telefonico/' class='tag-link-25' title='1 tema' style='font-size: 8pt;'>operador telefónico</a>
+<a href='http://www.pay-in.es/tag/pago-movil/' class='tag-link-24' title='2 temas' style='font-size: 16.4pt;'>pago móvil</a>
+<a href='http://www.pay-in.es/tag/peaton/' class='tag-link-37' title='1 tema' style='font-size: 8pt;'>peatón</a>
+<a href='http://www.pay-in.es/tag/smartphone/' class='tag-link-9' title='1 tema' style='font-size: 8pt;'>Smartphone</a>
+<a href='http://www.pay-in.es/tag/tecnologia/' class='tag-link-23' title='1 tema' style='font-size: 8pt;'>tecnología</a>
+<a href='http://www.pay-in.es/tag/telefono-movil/' class='tag-link-22' title='1 tema' style='font-size: 8pt;'>telefóno móvil</a>
+<a href='http://www.pay-in.es/tag/transporte-publico/' class='tag-link-21' title='3 temas' style='font-size: 22pt;'>transporte público</a>
+<a href='http://www.pay-in.es/tag/valencia/' class='tag-link-30' title='1 tema' style='font-size: 8pt;'>Valencia</a></div>
+</div></div></aside><!--end #secondary-->	
+</div>
+</div>
+<!--end #content-->
+
+
+<div id="footer">
+<footer class="footer-widgets-area"><section class="container clearfix"><div class="span3 column"><div class="inner"><div class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<img width="139" height="44" src="http://www.pay-in.es/wp-content/uploads/2015/12/logo-footer.png" class="attachment-full" alt="logo-footer" />	</p>
+
+
+</div><div class="widget widget_social_media_widget"><div class="widget-text wp_widget_plugin_box">
+      <ul class="social-icon_footer">
+             <li><a  class="icon_facebook" href="https://www.facebook.com/payinapplication" target="_blank"></a></li>
+                      <li><a class="icon_g-plus" href="https://plus.google.com/118133185433117296620/posts" target="_blank"></a></li>
+                       <li><a class="icon_twitter" href="https://twitter.com/payinapp" target="_blank"></a></li>
+                        	<li><a class="icon_pinterest" href="https://www.youtube.com/channel/UCxtsq3HnlZsPXUZiQ5AhI_A" target="_blank"></a></li>
+              </ul>
+    </div>
+
+</div><div class="widget widget_text">			<div class="textwidget">Pay[in] es una plataforma para realizar pagos a través del móvil. Global Payment and Management Platform for Smartphones</div>
+		</div></div></div><div class="span3 column"><div class="inner"><div class="widget widget_text"><h3 class="widget-title">Contacta con nosotros</h3><span class="line"> </span></br>			<div class="textwidget"><p>Marina Real Juan Carlos I - Muelle de la Aduana S/N, Edificio Lanzadera<br />
+46024 Valencia </p>
+<p> 679 91 64 21 </p>
+<p><a mail:info@pay-in.es> info@pay-in.es </a></p>
+</div>
+		</div></div></div><div class="span3 column"><div class="inner">			<div class="widget widget-blog">			<h3 class="widget-title">Últimas entradas del Blog</h3><span class="line"> </span></br>						<ul>
+												<li>
+										<section class="entry">
+						<h5 class="entry-title"><a href="http://www.pay-in.es/2017/01/12/tres-elementos-que-mejoran-la-experiencia-del-usuario-en-el-transporte-publico/" title="Tres elementos que mejoran la experiencia del usuario en el transporte público">Tres elementos que mejoran la experiencia del usuario en el transporte público</a></h5>
+						<span class="line"></span>
+						<div class="date meta">12 enero, 2017</div>
+					</section>
+				</li>
+																<li>
+										<section class="entry">
+						<h5 class="entry-title"><a href="http://www.pay-in.es/2017/01/05/la-pulsera-contactless-sera-tu-billete-de-metro-y-bus/" title="La pulsera contactless será tu billete de metro y bus.">La pulsera contactless será tu billete de metro y bus.</a></h5>
+						<span class="line"></span>
+						<div class="date meta">5 enero, 2017</div>
+					</section>
+				</li>
+																<li>
+										<section class="entry">
+						<h5 class="entry-title"><a href="http://www.pay-in.es/2016/12/29/para-frenar-la-contaminacion-movilidad-urbana-sostenible/" title="Para frenar la contaminación, movilidad urbana sostenible">Para frenar la contaminación, movilidad urbana sostenible</a></h5>
+						<span class="line"></span>
+						<div class="date meta">29 diciembre, 2016</div>
+					</section>
+				</li>
+																<li>
+										<section class="entry">
+						<h5 class="entry-title"><a href="http://www.pay-in.es/2016/12/22/tres-iniciativas-curiosas-e-interesantes-para-mejorar-el-transporte-publico/" title="Tres iniciativas curiosas e interesantes para mejorar el transporte público">Tres iniciativas curiosas e interesantes para mejorar el transporte público</a></h5>
+						<span class="line"></span>
+						<div class="date meta">22 diciembre, 2016</div>
+					</section>
+				</li>
+											</ul>
+									</div>		</div></div><div class="span3 column"><div class="inner"><div class="widget widget_nav_menu"><h3 class="widget-title">Descubre Pay[in]</h3><span class="line"> </span></br><div class="menu-secundario-container"><ul id="menu-secundario" class="menu"><li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="http://www.pay-in.es/blog/">Blog</a></li>
+<li id="menu-item-463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-463"><a href="http://www.pay-in.es/quienes-somos/">Quiénes Somos</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a href="https://play.google.com/store/apps/details?id=com.mobile.application.payin">Descarga la App</a></li>
+<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="http://www.pay-in.es/faq/">FAQ</a></li>
+<li id="menu-item-5158" class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-5158"><a href="http://www.pay-in.es/2016/06/13/condiciones-de-uso/">Condiciones de uso</a></li>
+</ul></div></div></div></div></section></footer><footer class="section-footer">
+		<a id="back-to-top" href="#"><span class="gotop"><i class="icon-up-open-big"></i></span></a>
+		<section class="container">
+	<div class="inner inner-wrap clearfix">
+		<div class="copyright"><strong>&copy; 2015 <a href="http://pay-in.es">Pay[In]</a>.</strong> </div>
+	<nav id="secondary-navigation">
+	<ul class="clearfix">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a target="_blank" href="https://control.pay-in.es/Account/Login">LOGIN</a></li>
+	</ul>
+</nav>
+ 
+	</div>
+	</section>
+</footer>
+</div>
+
+</div>
+</div>
+<!--end #warpper-->
+<script type='text/javascript'>
+		var rightNow = new Date();
+		var humanDate = rightNow.toDateString();
+
+		mixpanel.register_once({
+			'first_wp_page': document.title,
+			'first_wp_contact': humanDate
+		});
+		mixpanel.track("Viewed Page", {
+			'Page Name': document.title, 'Page URL': window.location.pathname
+		});
+		</script><script type='text/javascript' src='http://www.pay-in.es/wp-includes/js/admin-bar.min.js?ver=4.3.7'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.pay-in.es\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Por favor, prueba que no eres un robot.","sending":"Enviando..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/plugins/wpb-advanced-faq/assets/js/jquery.cookie.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/plugins/wpb-advanced-faq/assets/js/jquery.navgoco.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/plugins/wpb-advanced-faq/assets/js/main.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/plugins/wd-twitter-feed/app/assets/js/twitter-feed.min.js?ver=2.1.3'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/themes/compass/assets/js/jquery.easing.min.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/themes/compass/assets/js/apps.js?ver=1.1.0'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/themes/compass/assets/js/jquery.isotope.min.js?ver=1.5.25'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/themes/compass/assets/js/jquery.jplayer.js?ver=2.5.5'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/themes/compass/assets/js/jquery.countdown.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.pay-in.es/wp-content/themes/compass/assets/js/scripts.js?ver=1.1.0'></script>
+		<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Abrir la barra de herramientas</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de herramientas" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.pay-in.es/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">Acerca de WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item"  href="https://es.wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item"  href="https://codex.wordpress.org/">Documentación</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item"  href="http://es.forums.wordpress.org/">Foros de soporte</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item"  href="http://es.forums.wordpress.org/forum/peticiones-y-feedback">Sugerencias</a>		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://www.pay-in.es/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Buscar</label><input type="submit" class="adminbar-button" value="Buscar"/></form></div>		</li></ul>			</div>
+					</div>
+
+		</body>
+</html>
