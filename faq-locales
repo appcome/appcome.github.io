@@ -145,6 +145,8 @@
         <a href="mailto:comemanagement@gmail.com" class="fx-clr-02">Contacto</a>            </li>
       <li>
         <a href="faq-usuarios" class="fx-clr-02">Ayuda</a>            </li>
+        <li>
+          <a href="condiciones.html" class="fx-clr-02">Términos y Condiciones</a> </li>
     </ul>
 
     <p class="copyright-footer">© COME 2017</p>
