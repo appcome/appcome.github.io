@@ -2,6 +2,34 @@
 <html>
 
 <head>
+
+<!-- Cookies button -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "ececec"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#53a49a",
+      "border": "#53a49a"
+    }
+  },
+  "position": "top",
+  "static": true,
+  "content": {
+    "message": "Esta web utiliza cookies para mejorar la experiencia de navegación.",
+    "dismiss": "Entendido!",
+    "link": "Más Información.",
+    "href": "http://comeat.es/condiciones.html"
+  }
+})});
+</script>
+
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106897029-1"></script>
 <script>
